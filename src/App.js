@@ -44,7 +44,7 @@ return (
 <div className="app">
   <div className="app-header"> 
     <center><h1>Mardz Dapp</h1></center>    
-    <center><h5>When you click and nothing happens that means your browser has no Metamask installed.</h5></center>
+    <center><h3>When you click the login button and nothing happens that means your web browser has no Metamask Wallet.</h3></center>
   </div>
   <div className="app-wrapper">
     {!isConnected && (
@@ -77,7 +77,8 @@ return (
                 src="https://gw.crustapps.net/ipfs/QmNgoacgbARoSn9vhAPYdDMzSnsow7dFCfHzeZKftJ1hRD/"
                 alt="junjie"
               />
-        </div>
+            </div>
+            <h2> Todo List Smart Contract - Coming Soon.</h2>
       </center>
     </div>
   )

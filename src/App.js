@@ -74,7 +74,7 @@ return (
           <br />
             <div>
               <img
-                src="https://gw.crustapps.net/ipfs/QmNgoacgbARoSn9vhAPYdDMzSnsow7dFCfHzeZKftJ1hRD/"
+                src="https://gateway.ipfs.io/ipfs/QmNgoacgbARoSn9vhAPYdDMzSnsow7dFCfHzeZKftJ1hRD"
                 alt="junjie"
               />
             </div>

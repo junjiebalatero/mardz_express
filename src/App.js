@@ -43,23 +43,28 @@ setIsConnected(false);
 return (
 <div className="app">
   <div className="app-header"> 
-    <center><h1>Mardz Dapp</h1></center>    
-    <center><h3>When you click the login button and nothing happens that means your web browser has no Metamask Wallet.</h3></center>
+    <center><h1>Mardz Web 3.0 Website</h1></center>      
   </div>
   <div className="app-wrapper">
     {!isConnected && (
       <div>
           <center><button className="app-button__login" onClick={onConnect}>
           Login
-          </button></center>
+          </button></center>          
+         <center>
+         <h5>Metamask needed to login.</h5>
+         </center>
+            
+         
       </div>
+      
     )}
   </div>
   {isConnected && (
     <div className="app-wrapper">
       <center>
         <div className="app-details">
-                  <h2> You are connected to metamask.</h2>
+                  <h3> You are connected to metamask.</h3>
                       <div className="app-balance">
                           <span>Balance:  </span>
                               {ethBalance}
@@ -72,13 +77,21 @@ return (
               </button>
              </div>
           <br />
-            <div>
+            <div width="100" height="100">
               <img
                 src="https://gateway.ipfs.io/ipfs/QmNgoacgbARoSn9vhAPYdDMzSnsow7dFCfHzeZKftJ1hRD"
-                alt="junjie"
+                  
+                alt="junjie avatar"
               />
-            </div>
-            <h2> Todo List Smart Contract - Coming Soon.</h2>
+            </div><br />
+            <div>
+                <iframe id="odysee-iframe" width="560" height="315" src="https://crustipfs.xyz/ipfs/QmQAKHmhg2RFmGo35KNP39e9vTY81ejxE1T3mfihRTxFET" allowfullscreen></iframe>
+            </div><br />
+            <div>
+              <img
+                src="https://gw.crustapps.net/ipfs/QmSHt26L8fqVfUiRNxUssjCx1pwY9UmNqf6HJaGLkfYQjT"
+                alt="junjie bg"  width="500"/>
+              </div>
       </center>
     </div>
   )

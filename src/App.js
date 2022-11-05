@@ -43,7 +43,7 @@ setIsConnected(false);
 return (
 <div className="app">
   <div className="app-header"> 
-    <center><h1>Mardz Web 3.0 IPFS Collection</h1></center>      
+    <center><h1>Mardz Web 3.0</h1></center>      
   </div>
   <div className="app-wrapper">
     {!isConnected && (
@@ -77,8 +77,8 @@ return (
               </button>
              </div>
           <br />
-            <div width="100" height="100">
-            <p>Opensea: <a href="https://opensea.io/mardzreal57">mardzreal57</a></p>
+            <div>
+            <p>Visit in Opensea.io: <a href="https://opensea.io/mardzreal57" target="_blank">mardzreal57</a></p>
             </div><br />
             <div>
                 <iframe id="odysee-iframe" width="560" height="315" src="https://crustipfs.xyz/ipfs/QmQAKHmhg2RFmGo35KNP39e9vTY81ejxE1T3mfihRTxFET" allowfullscreen></iframe>

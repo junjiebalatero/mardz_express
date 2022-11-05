@@ -88,7 +88,13 @@ return (
           </div>   
           <div>
             <p>Visit in Opensea.io: <a href="https://opensea.io/collection/balatero-banner" target="_blank">balatero-banner</a></p>
-          </div>                       
+          </div> 
+          <div>
+            <p>Visit in Github: <a href="https://github.com/junjiebalatero" target="_blank">junjiebalatero</a></p>
+          </div>
+          <div>
+            <p>Visit in 4everland: <a href="https://github.com/junjiebalatero" target="_blank">mardz-video</a></p>
+          </div>
         </center>
       </div>
     )

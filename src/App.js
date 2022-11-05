@@ -78,11 +78,7 @@ return (
              </div>
           <br />
             <div width="100" height="100">
-              <img
-                src="https://crustipfs.xyz/ipfs/QmNgoacgbARoSn9vhAPYdDMzSnsow7dFCfHzeZKftJ1hRD"
-                  
-                alt="junjie avatar"
-              />
+              <img src="https://opensea.io/mardzreal57" alt="mardzreal57" />
             </div><br />
             <div>
                 <iframe id="odysee-iframe" width="560" height="315" src="https://crustipfs.xyz/ipfs/QmQAKHmhg2RFmGo35KNP39e9vTY81ejxE1T3mfihRTxFET" allowfullscreen></iframe>

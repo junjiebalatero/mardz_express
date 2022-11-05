@@ -60,37 +60,38 @@ return (
       
     )}
   </div>
-  {isConnected && (
-    <div className="app-wrapper">
-      <center>
-        <div className="app-details">
-                  <h3> You are connected to metamask.</h3>
-                      <div className="app-balance">
-                          <span>Balance:  </span>
-                              {ethBalance}
-                </div>
-            </div>          
+  {
+    isConnected && (
+      <div className="app-wrapper">
+        <center>
+          <div className="app-details">
+              <h3> You are connected to metamask.</h3>
+                  <div className="app-balance">
+                       <span>Balance:  </span>
+                            {ethBalance}
+                  </div>
+          </div>          
           <div>
-             <br />
+            <br />
               <button className="app-button__logout" onClick={onDisconnect}>
-                Disconnect
+                  Disconnect
               </button>
-             </div>
-          <br />
-            <div>
+          </div>            
+          <div>
             <p>Visit in Opensea.io: <a href="https://opensea.io/mardzreal57" target="_blank">mardzreal57</a></p>
-            </div><br />
-            <div>
-                <iframe id="odysee-iframe" width="560" height="315" src="https://crustipfs.xyz/ipfs/QmQAKHmhg2RFmGo35KNP39e9vTY81ejxE1T3mfihRTxFET" allowfullscreen></iframe>
-            </div><br />
-            <div>
-              <img
-                src="https://gw.crustapps.net/ipfs/QmSHt26L8fqVfUiRNxUssjCx1pwY9UmNqf6HJaGLkfYQjT"
-                alt="junjie bg"  width="500"/>
-              </div>
-      </center>
-    </div>
-  )
+          </div>
+          <div>
+            <p>Visit in Opensea.io: <a href="https://opensea.io/collection/mardz-cartoon" target="_blank">mardz-cartoon</a></p>
+          </div>
+          <div>
+            <p>Visit in Opensea.io: <a href="https://opensea.io/collection/bitcoin-banner" target="_blank">bitcoin-banner</a></p>
+          </div>   
+          <div>
+            <p>Visit in Opensea.io: <a href="https://opensea.io/collection/balatero-banner" target="_blank">balatero-banner</a></p>
+          </div>                       
+        </center>
+      </div>
+    )
   }
 </div>
 );

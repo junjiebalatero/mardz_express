@@ -93,7 +93,7 @@ return (
             <p>Visit in Github: <a href="https://github.com/junjiebalatero" target="_blank">junjiebalatero</a></p>
           </div>
           <div>
-            <p>Visit in 4everland: <a href="https://github.com/junjiebalatero" target="_blank">mardz-video</a></p>
+            <p>Visit in 4everland: <a href="https://7r2gg-ayaaa-aaaag-aaxsq-cai.ic0.app/" target="_blank">mardz-video</a></p>
           </div>
         </center>
       </div>

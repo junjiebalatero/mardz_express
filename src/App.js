@@ -78,22 +78,25 @@ return (
               </button>
           </div>            
           <div>
-            <p>Visit in Opensea.io: <a href="https://opensea.io/mardzreal57" target="_blank">mardzreal57</a></p>
+            <p>My NFT created in Opensea.io: <a href="https://opensea.io/mardzreal57" target="_blank">mardzreal57</a></p>
           </div>
           <div>
-            <p>Visit in Opensea.io: <a href="https://opensea.io/collection/mardz-cartoon" target="_blank">mardz-cartoon</a></p>
+            <p>My NFT created in Opensea.io: <a href="https://opensea.io/collection/mardz-cartoon" target="_blank">mardz-cartoon</a></p>
           </div>
           <div>
-            <p>Visit in Opensea.io: <a href="https://opensea.io/collection/bitcoin-banner" target="_blank">bitcoin-banner</a></p>
+            <p>My NFT created in Opensea.io: <a href="https://opensea.io/collection/bitcoin-banner" target="_blank">bitcoin-banner</a></p>
           </div>   
           <div>
-            <p>Visit in Opensea.io: <a href="https://opensea.io/collection/balatero-banner" target="_blank">balatero-banner</a></p>
+            <p>My NFT created in Opensea.io: <a href="https://opensea.io/collection/balatero-banner" target="_blank">balatero-banner</a></p>
           </div> 
           <div>
-            <p>Visit in Github: <a href="https://github.com/junjiebalatero" target="_blank">junjiebalatero</a></p>
+            <p>My code in Github: <a href="https://github.com/junjiebalatero" target="_blank">@junjiebalatero</a></p>
           </div>
           <div>
-            <p>Visit in 4everland: <a href="https://7r2gg-ayaaa-aaaag-aaxsq-cai.ic0.app/" target="_blank">mardz-video</a></p>
+            <p>My video Hosted by 4everland: <a href="https://7r2gg-ayaaa-aaaag-aaxsq-cai.ic0.app/" target="_blank">mardz-video</a></p>
+          </div>
+          <div>
+            <p>Hosted by fleek.co: <a href="https://3sxlk-ayaaa-aaaad-qeagq-cai.ic.fleek.co/" target="_blank">Read smart contract</a></p>
           </div>
         </center>
       </div>

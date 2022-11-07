@@ -101,6 +101,9 @@ return (
           <div>
             <p>Dsocial: <a href="https://dwqte-viaaa-aaaai-qaufq-cai.ic0.app/@mardz" target="_blank">Visit My Dsocial Channel</a></p>
           </div>
+          <div>
+            <p>IC Blogsite: <a href="https://dwqte-viaaa-aaaai-qaufq-cai.ic0.app/@mardz" target="_blank">Post what's in your mind</a></p>
+          </div>
         </center>
       </div>
     )

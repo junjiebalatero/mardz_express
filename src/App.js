@@ -88,7 +88,7 @@ return (
             <p>Hosted by fleek.co: <a href="https://3sxlk-ayaaa-aaaad-qeagq-cai.ic.fleek.co/" target="_blank">fleek.co is hosting this app - Connect and Read smart contract</a></p>
           </div>
           <div>
-            <p>Dsocial - Decentralize Youtube: <a href="https://dwqte-viaaa-aaaai-qaufq-cai.ic0.app/@mardz" target="_blank">@mardz - My Dsocial Channel.</a></p>
+            <p>Dsocial - A Decentralized alternate to Youtube: <a href="https://dwqte-viaaa-aaaai-qaufq-cai.ic0.app/@mardz" target="_blank">@mardz - Watch my Dsocial Channel.</a></p>
           </div>
           <div>
             <p>Visit nuance: <a href="https://exwqn-uaaaa-aaaaf-qaeaa-cai.ic0.app/" target="_blank">Blogging to the People.</a></p>

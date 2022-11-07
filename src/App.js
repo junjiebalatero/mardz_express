@@ -94,7 +94,7 @@ return (
             <p>IC Blogsite: <a href="https://dwqte-viaaa-aaaai-qaufq-cai.ic0.app/@mardz" target="_blank">Decentralize Blogsite.</a></p>
           </div>         
           <div>
-            <p>Visit commonwealth.im: <a href="https://commonwealth.im/" target="_blank">Own your data and identity, make new connections, and build a community.</a></p>
+            <p>Visit commonwealth.im: <a href="https://commonwealth.im/" target="_blank">A community for every token.</a></p>
           </div>         
           <div>
             <p>distrikt - A Decentralized alternate to Facebook: <a href="https://az5sd-cqaaa-aaaae-aaarq-cai.ic0.app/" target="_blank">Own your data and identity, make new connections, and build a community.</a></p>

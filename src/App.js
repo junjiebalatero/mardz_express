@@ -79,16 +79,7 @@ return (
           </div>            
           <div>
             <p>My NFT created in Opensea.io: <a href="https://opensea.io/mardzreal57" target="_blank">mardzreal57</a></p>
-          </div>
-          <div>
-            <p>My NFT created in Opensea.io: <a href="https://opensea.io/collection/mardz-cartoon" target="_blank">mardz-cartoon</a></p>
-          </div>
-          <div>
-            <p>My NFT created in Opensea.io: <a href="https://opensea.io/collection/bitcoin-banner" target="_blank">bitcoin-banner</a></p>
-          </div>   
-          <div>
-            <p>My NFT created in Opensea.io: <a href="https://opensea.io/collection/balatero-banner" target="_blank">balatero-banner</a></p>
-          </div> 
+          </div>         
           <div>
             <p>My code in Github: <a href="https://github.com/junjiebalatero" target="_blank">@junjiebalatero</a></p>
           </div>
@@ -103,6 +94,18 @@ return (
           </div>
           <div>
             <p>IC Blogsite: <a href="https://dwqte-viaaa-aaaai-qaufq-cai.ic0.app/@mardz" target="_blank">Post what's in your mind</a></p>
+          </div>
+          <div>
+            <p>A Clone Discord: <a href="https://commonwealth.im/" target="_blank">Build a community</a></p>
+          </div>
+          <div>
+            <p>Like a Telegram: <a href="https://www.tribes.xyz/" target="_blank">Chat here. </a></p>
+          </div>
+          <div>
+            <p>Like a Facebook: <a href="https://az5sd-cqaaa-aaaae-aaarq-cai.ic0.app/" target="_blank">Add Friends and Connect. </a></p>
+          </div>
+          <div>
+            <p>Visit Dmail: <a href="https://evyc3-ziaaa-aaaak-aam5a-cai.ic0.app/login" target="_blank">Just an email in web3.0 </a></p>
           </div>
         </center>
       </div>

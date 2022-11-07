@@ -94,18 +94,18 @@ return (
           </div>
           <div>
             <p>IC Blogsite: <a href="https://dwqte-viaaa-aaaai-qaufq-cai.ic0.app/@mardz" target="_blank">Decentralize Blogsite.</a></p>
+          </div>         
+          <div>
+            <p>Visit commonwealth.im: <a href="https://commonwealth.im/" target="_blank">Own your data and identity, make new connections, and build a community.</a></p>
+          </div>         
+          <div>
+            <p>distrikt - A Decentralized alternate to Facebook: <a href="https://az5sd-cqaaa-aaaae-aaarq-cai.ic0.app/" target="_blank">Own your data and identity, make new connections, and build a community.</a></p>
           </div>
           <div>
-            <p>Decentralize Discord: <a href="https://commonwealth.im/" target="_blank">Build a community</a></p>
+            <p>dfusion - A Decentralized alternate to instagram: <a href="https://dfusion.io/" target="_blank">Own your data and identity, make new connections, and build a community.</a></p>
           </div>
           <div>
-            <p>Decentralize Telegram: <a href="https://www.tribes.xyz/" target="_blank">Chat here. </a></p>
-          </div>
-          <div>
-            <p>Decentralize Facebook: <a href="https://az5sd-cqaaa-aaaae-aaarq-cai.ic0.app/" target="_blank">Add Friends and Connect. </a></p>
-          </div>
-          <div>
-            <p>Decentralize instagram: <a href="https://dfusion.io/" target="_blank">Create a post and connect to friends.</a></p>
+            <p>DSCVR - A Decentralized alternate to Reddit: <a href="https://dscvr.one/" target="_blank">a decentralized social content platform</a></p>
           </div>
           <div>
             <p>Dstar Note: <a href="https://nazwh-uiaaa-aaaai-qbexq-cai.ic0.app/#/login" target="_blank">all data of the notes is stored in the blockchain</a></p>
@@ -115,6 +115,12 @@ return (
           </div>
           <div>
             <p>Visit dbox: <a href="https://2prn7-tqaaa-aaaai-acjja-cai.ic0.app/login" target="_blank">Decentralize email</a></p>
+          </div>
+          <div>
+            <p>Visit tribes.xyz: <a href="https://www.tribes.xyz/" target="_blank">Decentralize Chat. </a></p>
+          </div>
+          <div>
+            <p>Visit oc.app: <a href="https://oc.app/" target="_blank">Decentralize Chat. </a></p>
           </div>
           <div>
             <p>My code in Github: <a href="https://github.com/junjiebalatero" target="_blank">@junjiebalatero</a></p>

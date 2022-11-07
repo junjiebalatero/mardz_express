@@ -105,6 +105,12 @@ return (
             <p>Decentralize Facebook: <a href="https://az5sd-cqaaa-aaaae-aaarq-cai.ic0.app/" target="_blank">Add Friends and Connect. </a></p>
           </div>
           <div>
+            <p>Decentralize instagram: <a href="https://dfusion.io/" target="_blank">Create a post and connect to friends.</a></p>
+          </div>
+          <div>
+            <p>Dstar Note: <a href="https://nazwh-uiaaa-aaaai-qbexq-cai.ic0.app/#/login" target="_blank">all data of the notes is stored in the blockchain</a></p>
+          </div>
+          <div>
             <p>Visit Dmail: <a href="https://evyc3-ziaaa-aaaak-aam5a-cai.ic0.app/login" target="_blank">Decentralize email</a></p>
           </div>
           <div>

@@ -93,10 +93,13 @@ return (
             <p>My code in Github: <a href="https://github.com/junjiebalatero" target="_blank">@junjiebalatero</a></p>
           </div>
           <div>
-            <p>My video Hosted by 4everland: <a href="https://7r2gg-ayaaa-aaaag-aaxsq-cai.ic0.app/" target="_blank">mardz-video</a></p>
+            <p>Hosted by 4everland: <a href="https://7r2gg-ayaaa-aaaag-aaxsq-cai.ic0.app/" target="_blank">My web 3.0 dApp</a></p>
           </div>
           <div>
             <p>Hosted by fleek.co: <a href="https://3sxlk-ayaaa-aaaad-qeagq-cai.ic.fleek.co/" target="_blank">Read smart contract</a></p>
+          </div>
+          <div>
+            <p>Dsocial: <a href="https://dwqte-viaaa-aaaai-qaufq-cai.ic0.app/@mardz" target="_blank">Visit My Dsocial Channel</a></p>
           </div>
         </center>
       </div>

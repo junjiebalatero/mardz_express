@@ -53,9 +53,7 @@ return (
           </button></center>          
          <center>
          <h5>Metamask needed to login.</h5>
-         </center>
-            
-         
+         </center>        
       </div>
       
     )}

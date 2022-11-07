@@ -91,7 +91,7 @@ return (
             <p>Dsocial - Decentralize Youtube: <a href="https://dwqte-viaaa-aaaai-qaufq-cai.ic0.app/@mardz" target="_blank">@mardz - My Dsocial Channel.</a></p>
           </div>
           <div>
-            <p>IC Blogsite: <a href="https://dwqte-viaaa-aaaai-qaufq-cai.ic0.app/@mardz" target="_blank">Decentralize Blogsite.</a></p>
+            <p>Visit nuance: <a href="https://exwqn-uaaaa-aaaaf-qaeaa-cai.ic0.app/" target="_blank">Blogging to the People.</a></p>
           </div>         
           <div>
             <p>Visit commonwealth.im: <a href="https://commonwealth.im/" target="_blank">A community for every token.</a></p>

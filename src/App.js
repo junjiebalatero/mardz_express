@@ -76,36 +76,42 @@ return (
               <button className="app-button__logout" onClick={onDisconnect}>
                   Disconnect
               </button>
-          </div>            
+          </div>    
           <div>
-            <p>My NFT created in Opensea.io: <a href="https://opensea.io/mardzreal57" target="_blank">mardzreal57</a></p>
-          </div>         
+            <p>Visit Opensea.io: <a href="https://opensea.io/mardzreal57" target="_blank">Create your own NFT and Sell it for free.</a></p>
+          </div>   
+          <div>
+            <p>Visit fleek.co: <a href="https://wi6hp-cqaaa-aaaad-qd67q-cai.ic.fleek.co/" target="_blank">Decentralize your Website, Application, Data and Storage.</a></p>
+          </div>    
+          <div>
+            <p>Visit 4everland.org: <a href="https://7r2gg-ayaaa-aaaag-aaxsq-cai.ic0.app/" target="_blank">Decentralize your Website, Application, Data and Storage.</a></p>
+          </div>
+          <div>
+            <p>Hosted by fleek.co: <a href="https://3sxlk-ayaaa-aaaad-qeagq-cai.ic.fleek.co/" target="_blank">fleek.co is hosting this app - Connect and Read smart contract</a></p>
+          </div>
+          <div>
+            <p>Dsocial - Decentralize Youtube: <a href="https://dwqte-viaaa-aaaai-qaufq-cai.ic0.app/@mardz" target="_blank">@mardz - My Dsocial Channel.</a></p>
+          </div>
+          <div>
+            <p>IC Blogsite: <a href="https://dwqte-viaaa-aaaai-qaufq-cai.ic0.app/@mardz" target="_blank">Decentralize Blogsite.</a></p>
+          </div>
+          <div>
+            <p>Decentralize Discord: <a href="https://commonwealth.im/" target="_blank">Build a community</a></p>
+          </div>
+          <div>
+            <p>Decentralize Telegram: <a href="https://www.tribes.xyz/" target="_blank">Chat here. </a></p>
+          </div>
+          <div>
+            <p>Decentralize Facebook: <a href="https://az5sd-cqaaa-aaaae-aaarq-cai.ic0.app/" target="_blank">Add Friends and Connect. </a></p>
+          </div>
+          <div>
+            <p>Visit Dmail: <a href="https://evyc3-ziaaa-aaaak-aam5a-cai.ic0.app/login" target="_blank">Decentralize email</a></p>
+          </div>
+          <div>
+            <p>Visit dbox: <a href="https://2prn7-tqaaa-aaaai-acjja-cai.ic0.app/login" target="_blank">Decentralize email</a></p>
+          </div>
           <div>
             <p>My code in Github: <a href="https://github.com/junjiebalatero" target="_blank">@junjiebalatero</a></p>
-          </div>
-          <div>
-            <p>Hosted by 4everland: <a href="https://7r2gg-ayaaa-aaaag-aaxsq-cai.ic0.app/" target="_blank">My web 3.0 dApp</a></p>
-          </div>
-          <div>
-            <p>Hosted by fleek.co: <a href="https://3sxlk-ayaaa-aaaad-qeagq-cai.ic.fleek.co/" target="_blank">Read smart contract</a></p>
-          </div>
-          <div>
-            <p>Dsocial: <a href="https://dwqte-viaaa-aaaai-qaufq-cai.ic0.app/@mardz" target="_blank">Visit My Dsocial Channel</a></p>
-          </div>
-          <div>
-            <p>IC Blogsite: <a href="https://dwqte-viaaa-aaaai-qaufq-cai.ic0.app/@mardz" target="_blank">Post what's in your mind</a></p>
-          </div>
-          <div>
-            <p>A Clone Discord: <a href="https://commonwealth.im/" target="_blank">Build a community</a></p>
-          </div>
-          <div>
-            <p>Like a Telegram: <a href="https://www.tribes.xyz/" target="_blank">Chat here. </a></p>
-          </div>
-          <div>
-            <p>Like a Facebook: <a href="https://az5sd-cqaaa-aaaae-aaarq-cai.ic0.app/" target="_blank">Add Friends and Connect. </a></p>
-          </div>
-          <div>
-            <p>Visit Dmail: <a href="https://evyc3-ziaaa-aaaak-aam5a-cai.ic0.app/login" target="_blank">Just an email in web3.0 </a></p>
           </div>
         </center>
       </div>

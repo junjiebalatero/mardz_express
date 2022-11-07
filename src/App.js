@@ -61,7 +61,7 @@ return (
   {
     isConnected && (
       <div className="app-wrapper">
-       
+        <center>
           <div className="app-details">
               <h3> You are connected to metamask.</h3>
                   <div className="app-balance">
@@ -122,7 +122,8 @@ return (
           </div>
           <div>
             <p>My code in Github: <a href="https://github.com/junjiebalatero" target="_blank">@junjiebalatero</a></p>
-          </div>      
+          </div>
+        </center>
       </div>
     )
   }

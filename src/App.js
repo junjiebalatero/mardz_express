@@ -98,10 +98,7 @@ return (
           </div>         
           <div>
             <p>distrikt - A Decentralized alternate to Facebook: <a href="https://az5sd-cqaaa-aaaae-aaarq-cai.ic0.app/" target="_blank">Own your data and identity, make new connections, and build a community.</a></p>
-          </div>
-          <div>
-            <p>dfusion - A Decentralized alternate to instagram: <a href="https://dfusion.io/" target="_blank">Own your data and identity, make new connections, and build a community.</a></p>
-          </div>
+          </div>         
           <div>
             <p>DSCVR - A Decentralized alternate to Reddit: <a href="https://dscvr.one/" target="_blank">a decentralized social content platform</a></p>
           </div>

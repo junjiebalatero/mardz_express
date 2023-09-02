@@ -43,7 +43,7 @@ setIsConnected(false);
 return (
 <div className="app">
   <div className="app-header"> 
-    <center><h1>Mardz Web 3.0</h1></center>      
+    <center><h1>Mardz Dapp</h1></center>      
   </div>
   <div className="app-wrapper">
     {!isConnected && (

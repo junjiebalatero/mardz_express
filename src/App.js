@@ -75,12 +75,7 @@ return (
                   Disconnect
               </button>
           </div>    
-          <div>
-            <p>Visit Opensea.io: <a href="https://opensea.io/mardzreal57" target="_blank">Create your own NFT and Sell it for free.</a></p>
-          </div>   
-          <div>
-            <p>Visit fleek.co: <a href="https://wi6hp-cqaaa-aaaad-qd67q-cai.ic.fleek.co/" target="_blank">Decentralize your Website, Application, Data and Storage.</a></p>
-          </div>    
+          <h3> Just A Few List of Web 3.0</h3>          
           <div>
             <p>Visit 4everland.org: <a href="https://7r2gg-ayaaa-aaaag-aaxsq-cai.ic0.app/" target="_blank">Decentralize your Website, Application, Data and Storage.</a></p>
           </div>
@@ -116,10 +111,7 @@ return (
           </div>
           <div>
             <p>Visit oc.app: <a href="https://oc.app/" target="_blank">Decentralize Chat. </a></p>
-          </div>
-          <div>
-            <p>My code in Github: <a href="https://github.com/junjiebalatero" target="_blank">@junjiebalatero</a></p>
-          </div>
+          </div>   
         </center>
       </div>
     )
